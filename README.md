@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lituanien
+- 👋 Hi, I’m @AivarasTS
 - 👀 I’m interested in learning typescript along with html and css
 - 🌱 I’m currently learning TS HTML CSS
 - 💞️ I’m looking to collaborate on ...
